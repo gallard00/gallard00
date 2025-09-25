@@ -1,4 +1,15 @@
-## Hi there 👋
+# Nahuel Gallardo
+
+Estoy buscando roles de desarrollo backend / full stack.  
+Tecnologías que uso: Java, Spring Boot, SQL, NOSQL, Git, Docker, HTML, CSS, JavaScript  
+
+🛠 Proyectos destacados  
+- **Titos Restobar**: sistema de gestión de restaurante con backend en Java + frontend básico    
+
+📫 Cómo contactarme  
+- LinkedIn: https://www.linkedin.com/in/nahuel-gallardo
+- Email: gallardonahuel293@gmail.com
+
 
 <!--
 **gallard00/gallard00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
