@@ -7,7 +7,7 @@ Tecnologías que uso: Java, Spring Boot, SQL, NOSQL, Git, Docker, HTML, CSS, Jav
 - **Titos Restobar**: sistema de gestión de restaurante con backend en Java + frontend básico    
 
 📫 Cómo contactarme  
-- LinkedIn: https://www.linkedin.com/in/nahuel-gallardo
+- LinkedIn: https://www.linkedin.com/in/nahuelgallard00
 - Email: gallardonahuel293@gmail.com
 
 
