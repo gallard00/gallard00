@@ -17,7 +17,7 @@
 
 - **User Task Manager** → Aplicación **Full Stack** con **Spring Boot + Angular** que permite gestionar usuarios y tareas.  
   Incluye **autenticación JWT**, CRUD completo y conexión a base de datos.  
-  _(Spring Boot · Angular · PostgreSQL · JWT · REST API)_
+  _(Spring Boot · Angular · MongoDB · JWT · REST API)_
 
 - **Budget Generator** → Sistema **Full Stack** para generar presupuestos personalizados con conexión entre backend y frontend.  
   _(Spring Boot · Angular · MariaDB · Docker)_
@@ -34,8 +34,3 @@
 ---
 
 ⭐ *Apasionado por el desarrollo backend, la integración de sistemas y la creación de soluciones reales mediante software.*
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
