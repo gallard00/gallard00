@@ -8,7 +8,7 @@
 ### 🧰 Tecnologías que utilizo
 - **Backend:** Java, Spring Boot  
 - **Frontend:** Angular, HTML, CSS, JavaScript  
-- **Bases de datos:** SQL (MariaDB, PostgreSQL), NoSQL  
+- **Bases de datos:** SQL (MariaDB), NoSQL  
 - **DevOps:** Git, Docker  
 
 ---
